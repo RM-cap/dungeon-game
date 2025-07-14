@@ -1,0 +1,31 @@
+# Unity Generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# IDE
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Builds
+*.apk
+*.exe
+*.aab
+*.app
+
+# Collab/Versioning
+.collab/
+.plastic/
+
